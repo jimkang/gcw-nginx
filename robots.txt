@@ -1,0 +1,6 @@
+User-agent: AhrefsBot
+Crawl-Delay: 2592000
+
+User-agent: YandexBot
+Crawl-Delay: 604800
+
